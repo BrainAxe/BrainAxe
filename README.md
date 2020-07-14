@@ -1,16 +1,18 @@
-### Hi there 👋
+### Tanzim Rizwan 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=BrainAxe&show_icons=true">
 
-<!--
-**BrainAxe/BrainAxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **django** and **Odoo**
+- 🌱 I’m currently learning **Vue.js**
+- 💬 Ask me about: Anything!, I'm happy to help
+- :joy: Fun Fact: My first thought when I wake up in the morning is normally **What is the time** :sleepy:
+- 😄 Pronouns: He/Him/His
+- ⚡ Languages: **Python**, **JavaScript**, **C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [Tanzim Rizwan](https://github.com/BrainAxe)
