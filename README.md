@@ -11,7 +11,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=BrainAxe&show_icons=true" />
-<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainAxe&layout=compact&hide=css,java,ejs" />
+<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainAxe&layout=compact&hide=html,css,java,ejs" />
 
 <img align='left' src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
