@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-- 🔭 I’m currently working on **django** and **React.js**
+- 🔭 I’m currently working on **django**
 - 🌱 I’m currently learning **Go**
 - 💬 Ask me about: Anything!, I'm happy to help
 - :joy: Fun Fact: My first thought when I wake up in the morning is normally **What is the time** :sleepy:
